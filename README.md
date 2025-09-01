@@ -60,19 +60,26 @@ The backend generates **anonymous IDs** for submissions, validates inputs, compu
 
 
 Installation
+
 git clone <URL>
+
 cd Server
+
 npm install
 
 
 Create a .env file:
 
 MONGO_URI=<your-mongodb-uri>
+
 CORS_ORIGIN=http://localhost:3000
+
 NODE_ENV=development
+
 PORT=5000
 
 Running the Server
+
 npm run dev
 
 
