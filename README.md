@@ -49,6 +49,7 @@ The backend generates **anonymous IDs** for submissions, validates inputs, compu
 
 ## Tech Stack
 
+- **TypeScript** 
 - **Node.js** (v22+)
 - **Express.js**
 - **MongoDB** with **Mongoose**
