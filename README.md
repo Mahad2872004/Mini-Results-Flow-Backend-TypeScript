@@ -64,7 +64,7 @@ Installation
 
 git clone <URL>
 
-cd Server
+cd Backend
 
 npm install
 
